@@ -1,4 +1,4 @@
-# forecasr-car-rentals-hourly-basis
+# forecast-car-rentals-hourly-basis
 
 Analytics Vidhya Jobathon
 
